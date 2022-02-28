@@ -1,0 +1,32 @@
+{
+    "theme_color": "#252525",
+    "background_color": "#252525",
+    "display": "browser",
+    "scope": "/",
+    "start_url": "/DHC.html",
+    "name": "Da hood cash",
+    "short_name": "DHC",
+    "description": "this is a website where you can join the server and in the server you can buy da hood cash the game da hood is a roblox game if you dont know what we mean",
+    "icons": [
+        {
+            "src": "/icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/icon-256x256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        },
+        {
+            "src": "/icon-384x384.png",
+            "sizes": "384x384",
+            "type": "image/png"
+        },
+        {
+            "src": "/icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
